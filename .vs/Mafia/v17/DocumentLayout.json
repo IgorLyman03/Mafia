@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iho\\source\\repos\\Mafia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\actions\\killaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\actions\\killaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\actions\\checkroleaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\actions\\checkroleaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\actions\\healaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\actions\\healaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\actions\\interfaces\\iaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\actions\\interfaces\\iaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|c:\\users\\iho\\source\\repos\\mafia\\mafia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6842F708-B1BE-4CC2-976D-2857A465E5F5}|Mafia\\Mafia.csproj|solutionrelative:mafia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 239,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "Mafia\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Model\\Player.cs",
+              "RelativeToolTip": "Mafia\\Model\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:25:55.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Game.cs",
+              "RelativeDocumentMoniker": "Mafia\\Game.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Game.cs",
+              "RelativeToolTip": "Mafia\\Game.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:53:02.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckRoleAction.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\CheckRoleAction.cs",
+              "RelativeDocumentMoniker": "Mafia\\Actions\\CheckRoleAction.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\CheckRoleAction.cs",
+              "RelativeToolTip": "Mafia\\Actions\\CheckRoleAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:49:48.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealAction.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\HealAction.cs",
+              "RelativeDocumentMoniker": "Mafia\\Actions\\HealAction.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\HealAction.cs",
+              "RelativeToolTip": "Mafia\\Actions\\HealAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:47:57.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KillAction.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\KillAction.cs",
+              "RelativeDocumentMoniker": "Mafia\\Actions\\KillAction.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\KillAction.cs",
+              "RelativeToolTip": "Mafia\\Actions\\KillAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:40:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAction.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\Interfaces\\IAction.cs",
+              "RelativeDocumentMoniker": "Mafia\\Actions\\Interfaces\\IAction.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Actions\\Interfaces\\IAction.cs",
+              "RelativeToolTip": "Mafia\\Actions\\Interfaces\\IAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:14:29.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "Mafia\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Model\\Role.cs",
+              "RelativeToolTip": "Mafia\\Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:14:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Program.cs",
+              "RelativeDocumentMoniker": "Mafia\\Program.cs",
+              "ToolTip": "C:\\Users\\Iho\\source\\repos\\Mafia\\Mafia\\Program.cs",
+              "RelativeToolTip": "Mafia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:12:41.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
